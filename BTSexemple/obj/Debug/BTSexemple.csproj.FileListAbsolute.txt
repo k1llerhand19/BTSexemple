@@ -1,0 +1,9 @@
+E:\Etude\bts\TSUP2\SLAM\BTSexemple\BTSexemple\obj\Debug\BTSexemple.csprojResolveAssemblyReference.cache
+E:\Etude\bts\TSUP2\SLAM\BTSexemple\BTSexemple\bin\Debug\BTSexemple.exe.config
+E:\Etude\bts\TSUP2\SLAM\BTSexemple\BTSexemple\bin\Debug\BTSexemple.exe
+E:\Etude\bts\TSUP2\SLAM\BTSexemple\BTSexemple\bin\Debug\BTSexemple.pdb
+E:\Etude\bts\TSUP2\SLAM\BTSexemple\BTSexemple\bin\Debug\mysql.data.dll
+E:\Etude\bts\TSUP2\SLAM\BTSexemple\BTSexemple\obj\Debug\BTSexemple.exe
+E:\Etude\bts\TSUP2\SLAM\BTSexemple\BTSexemple\obj\Debug\BTSexemple.pdb
+E:\Etude\bts\TSUP2\SLAM\BTSexemple\BTSexemple\obj\Debug\BTSexemple.MainForm.resources
+E:\Etude\bts\TSUP2\SLAM\BTSexemple\BTSexemple\obj\Debug\BTSexemple.csproj.GenerateResource.Cache
